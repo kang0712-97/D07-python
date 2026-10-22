@@ -1,0 +1,8 @@
+# lotto.py는 파이썬 표준 라이브러리(random, tkinter, datetime)만 사용합니다.
+# 아래 streamlit은 웹 화면(app.py)용 외부 패키지입니다.
+# Python 3.12 권장 (conda create -n camp python=3.12 -y)
+# 설치: pip install -r requirements.txt
+
+streamlit==1.66.1
+requests==2.34.2
+python-dotenv==1.2.4

@@ -1,0 +1,19 @@
+# API 키 금고 (절대 올리지 않음)
+.env
+
+# 파이썬 임시 파일
+__pycache__/
+*.py[cod]
+
+# 가상환경
+.venv/
+venv/
+
+# Streamlit (secrets.toml 에 키가 들어갈 수 있음)
+.streamlit/secrets.toml
+
+# 에디터 / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
